@@ -2,7 +2,7 @@
     <v-timeline :dense="$vuetify.breakpoint.smAndDown">
     <v-timeline-item v-for="(seccion,i) in secciones" :key="i"
         :data-aos="`flip-${flip[Math.floor(Math.random()*4)]}`"
-        data-aos-delay="500"
+        data-aos-delay="100"
       fill-dot
       :right="i%2!=0"
       :left="i%2==0"
@@ -41,7 +41,7 @@
             size="42"
             class="mr-4"
           >
-            mdi-lock-open
+           {{seccion.icon}}
           </v-icon>
           <h2 class="white--text font-weight-light font-raleway">{{seccion.titulo_seccion}}</h2>
         </v-card-title>

@@ -1,8 +1,10 @@
 {
   "secciones":[
+
     {
       "titulo_seccion":"Liberacion",
       "Texto":"\"Éstos son los nombres de los hijos de Israel que, acompañados de sus familias, llegaron con Jacob a Egipto: Rubén, Simeón, Leví, Judá, Isacar, Zabulón, Benjamín, Dan, Neftalí, Gad y Aser. En total, los descendientes de Jacob eran setenta. ...\"",
+      "icon":"mdi-lock-open",
       "color_card":"blue accent-4",
       "versiculo":"Exodo 1:1-1",
       "versiculoExplicacion":"exodo111",
@@ -15,6 +17,7 @@
       "Texto":"\"les dijeron: Mire Jehová sobre vosotros, y juzgue; pues nos habéis hecho abominables delante de Faraón y de sus siervos, poniéndoles la espada en la mano para que nos maten.\"",
       "color_card":"deep-purple darken-4",
       "versiculo":"Exodo 5:21",
+      "icon":"mdi-lock-open",
       "versiculoExplicacion":"exodo521",
       "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+5%3A21&version=RVR1960",
       "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Pharoah_Action.png"
@@ -24,9 +27,183 @@
       "Texto":"\"Cuando salió Israel de Egipto,La casa de Jacob del pueblo extranjero,Judá vino a ser su santuario,  E Israel su señorío. El mar lo vio, y huyó; El Jordán se volvió atrás. Los montes saltaron como carneros, Los collados como corderitos.¿Qué tuviste, oh mar, que huiste? ¿Y tú, oh Jordán, que te volviste atrás? Oh montes, ¿por qué saltasteis como carneros, Y vosotros, collados, como corderitos? A la presencia de Jehová tiembla la tierra, A la presencia del Dios de Jacob, El cual cambió la peña en estanque de aguas, Y en fuente de aguas la roca.\"",
       "color_card":"green darken-4",
       "versiculo":"Salmos 114",
+      "icon":"mdi-lock-open",
       "versiculoExplicacion":"salmos114",
       "link":"https://biblia.com/bible/rvr60/salmo/114?culture=es",
       "img":"http://superlibro.tv/sites/default/files/character_profile/static_shot/Profile_Static_Series_New_01_3.png"
     }
+
+
+
+    ,
+    {
+      "titulo_seccion":"Marcha Por El Desierto",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"amber darken-4",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-walk",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"https://1.bp.blogspot.com/-xwyC6eSZSQY/WIikC5wPwQI/AAAAAAAAY_8/MS6d5iouT6IijRNNSRO3jULjvJoh4MgDACLcB/s1600/sarca_ardente.png"
+    }    ,
+    {
+      "titulo_seccion":"Marcha Por El Desierto",
+      "Texto":"\"Y si morare con vosotros extranjero, y celebrare la pascua a Jehová, conforme al rito de la pascua y conforme a sus leyes la celebrará; un mismo rito tendréis, tanto el extranjero como el natural de la tierra. \"",
+      "color_card":"red accent-3",
+      "versiculo":"Numeros 9-14",
+      "icon":"mdi-walk",
+      "versiculoExplicacion":"numeros914",
+      "link":"https://www.biblegateway.com/passage/?search=N%C3%BAmeros+9-14&version=RVR1960",
+      "img":"https://4.bp.blogspot.com/-UhtDf8uz0PU/U_w6gPYh7BI/AAAAAAAACkU/mu4C6q_CgS8/s1600/New%2BPicture%2B%282%29.png"
+    }    ,
+    {
+      "titulo_seccion":"Marcha Por El Desierto",
+      "Texto":"\"y tomad cada uno su incensario y poned incienso en ellos, y acercaos delante de Jehová cada uno con su incensario, doscientos cincuenta incensarios; tú también, y Aarón, cada uno con su incensario.\"",
+      "color_card":"pink accent-3",
+      "versiculo":"Numeros 16-17",
+      "icon":"mdi-walk",
+      "versiculoExplicacion":"numeros1617",
+      "link":"https://www.biblegateway.com/passage/?search=N%C3%BAmeros+16-17&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    }    ,
+    {
+      "titulo_seccion":"Marcha Por El Desierto",
+      "Texto":"\"Toma a Aarón y a Eleazar su hijo, y hazlos subir al monte de Hor, 26 y desnuda a Aarón de sus vestiduras, y viste con ellas a Eleazar su hijo; porque Aarón será reunido a su pueblo, y allí morirá. 27 Y Moisés hizo como Jehová le mandó; y subieron al monte de Hor a la vista de toda la congregación. \"",
+      "color_card":"indigo darken-2",
+      "versiculo":"Numeros 20-25",
+      "icon":"mdi-walk",
+      "versiculoExplicacion":"numeros2025",
+      "link":"https://www.biblegateway.com/passage/?search=N%C3%BAmeros+20%3A25-27&version=RVR1960",
+      "img":"https://images.vexels.com/media/users/3/146900/isolated/preview/f6f9cf7076be7a5a46ac68e679f8091f-pico-del-monte-by-vexels.png"
+    }
+
+
+
+
+
+    ,
+    {
+      "titulo_seccion":"Alianza",
+      "Texto":"\"Entonces el Señor le dijo: Ve, desciende, y vuelve a subir[a], tú y Aarón contigo; pero que los sacerdotes y el pueblo no traspasen los límites para subir al Señor, no sea que Él irrumpa contra ellos.\"",
+      "color_card":"pink accent-3",
+      "versiculo":"Exodo 19-25",
+      "icon":"mdi-hand-heart",
+      "versiculoExplicacion":"exodo1925",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+19%3A24&version=LBLA",
+      "img":"data:image/jpeg;base64,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"
+    }    ,
+    {
+      "titulo_seccion":"Alianza",
+      "Texto":"\"Ve, pues, ahora, lleva a este pueblo a donde te he dicho; he aquí mi ángel irá delante de ti; pero en el día del castigo, yo castigaré en ellos su pecado. \"",
+      "color_card":"yellow accent-4",
+      "versiculo":"Exodo 32-34",
+      "icon":"mdi-hand-heart",
+      "versiculoExplicacion":"exodo3234",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+32-34&version=RVR1960 ",
+      "img":"https://i.pinimg.com/originals/29/14/29/291429b52a070c3656c940f8fedd8dff.png"
+    }
+
+
+
+
+    ,
+    {
+      "titulo_seccion":"Decágolo",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"blue-grey darken-4",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-book-open-variant",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    },
+    {
+      "titulo_seccion":"Decágolo",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"green accent-4",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-book-open-variant",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    }
+
+
+
+
+
+
+    ,
+    {
+      "titulo_seccion":"Códigos Legislativos",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"orange darken-4",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-book-open",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    },
+    {
+      "titulo_seccion":"Códigos Legislativos",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"brown darken-3",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-book-open",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    },
+    {
+      "titulo_seccion":"Códigos Legislativos",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"grey darken-4",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-book-open",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    },
+    {
+      "titulo_seccion":"Códigos Legislativos",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"cyan accent-4",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-book-open",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    },
+    {
+      "titulo_seccion":"Códigos Legislativos",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"deep-purple darken-1",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-book-open",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    },
+    {
+      "titulo_seccion":"Códigos Legislativos",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"cyan accent-2",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-book-open",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    },
+    {
+      "titulo_seccion":"Códigos Legislativos",
+      "Texto":"\"Jehová reinará eternamente y para siempre.\"",
+      "color_card":"light-blue darken-4",
+      "versiculo":"Exodo 15-18",
+      "icon":"mdi-book-open",
+      "versiculoExplicacion":"exodo1518",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+15%3A1-18&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Aaron_Action_1.png"
+    }
+
   ]
 }
