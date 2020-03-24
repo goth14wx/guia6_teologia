@@ -1,0 +1,20 @@
+{
+  "name": "guia6_lineaDeTiempo",
+  "version": "1.0.0",
+  "description": "guia numero seis de teologia",
+  "author": "shift14wx",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}

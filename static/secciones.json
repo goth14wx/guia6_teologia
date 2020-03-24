@@ -1,0 +1,32 @@
+{
+  "secciones":[
+    {
+      "titulo_seccion":"Liberacion",
+      "Texto":"\"Éstos son los nombres de los hijos de Israel que, acompañados de sus familias, llegaron con Jacob a Egipto: Rubén, Simeón, Leví, Judá, Isacar, Zabulón, Benjamín, Dan, Neftalí, Gad y Aser. En total, los descendientes de Jacob eran setenta. ...\"",
+      "color_card":"blue accent-4",
+      "versiculo":"Exodo 1:1-1",
+      "versiculoExplicacion":"exodo111",
+      "colorExplicacion":"teal darken-4",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+1%3A1%2C%C3%89xodo+1%3A7&version=RVR1960",
+      "img": "http://superlibro.tv/sites/default/files/character_profile/action_shot/Jacob_Action.png"
+    },
+    {
+      "titulo_seccion":"Liberacion",
+      "Texto":"\"les dijeron: Mire Jehová sobre vosotros, y juzgue; pues nos habéis hecho abominables delante de Faraón y de sus siervos, poniéndoles la espada en la mano para que nos maten.\"",
+      "color_card":"deep-purple darken-4",
+      "versiculo":"Exodo 5:21",
+      "versiculoExplicacion":"exodo521",
+      "link":"https://www.biblegateway.com/passage/?search=%C3%89xodo+5%3A21&version=RVR1960",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/action_shot/Pharoah_Action.png"
+    },
+    {
+      "titulo_seccion":"Liberacion",
+      "Texto":"\"Cuando salió Israel de Egipto,La casa de Jacob del pueblo extranjero,Judá vino a ser su santuario,  E Israel su señorío. El mar lo vio, y huyó; El Jordán se volvió atrás. Los montes saltaron como carneros, Los collados como corderitos.¿Qué tuviste, oh mar, que huiste? ¿Y tú, oh Jordán, que te volviste atrás? Oh montes, ¿por qué saltasteis como carneros, Y vosotros, collados, como corderitos? A la presencia de Jehová tiembla la tierra, A la presencia del Dios de Jacob, El cual cambió la peña en estanque de aguas, Y en fuente de aguas la roca.\"",
+      "color_card":"green darken-4",
+      "versiculo":"Salmos 114",
+      "versiculoExplicacion":"salmos114",
+      "link":"https://biblia.com/bible/rvr60/salmo/114?culture=es",
+      "img":"http://superlibro.tv/sites/default/files/character_profile/static_shot/Profile_Static_Series_New_01_3.png"
+    }
+  ]
+}
